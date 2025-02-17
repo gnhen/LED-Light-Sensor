@@ -17,3 +17,6 @@ The way this works is simple
 2. Use the Arduino IDE to push code to your ESP
 3. Put your LEDs in the pins labeled on the top of the code
 4. Watch it work!
+
+# Contributing
+Please feel free to submit pull requests and I will get to them in a timely manner
